@@ -1,0 +1,7 @@
+{
+  "pytest_passed": 3,
+  "pytest_output": "...                                                                      [100%]\n3 passed in 0.25s",
+  "executed": "Cursor merge comparison, bounded samples, duplicate keys, exact large decimal and timezone normalization, plus an actual 5,000-row Parquet/DuckDB run detecting five missing, three changed, and one extra record.",
+  "not_executed": "A PostgreSQL server was not available; its repeatable-read/server-cursor adapter requires a live integration check.",
+  "test_python": "3.9.6"
+}
